@@ -1,0 +1,15 @@
+{
+  "name": "export_ts_tut",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc p .",
+    "start": "node dist/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tsc": "^1.20150623.0"
+  }
+}
